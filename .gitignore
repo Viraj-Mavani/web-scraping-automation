@@ -1,0 +1,14 @@
+# 1. Ignore specific output/log folders anywhere in the project
+**/OPtxt/
+**/OP/
+**/Log/
+**/Error/
+**/Counts/
+
+# 2. Ignore specific file types anywhere in the project
+*.zip
+*.html
+
+# 3. Optional: Ensure your python scripts are ALWAYS tracked
+# (Only needed if a broader rule is accidentally ignoring them)
+!*.py
