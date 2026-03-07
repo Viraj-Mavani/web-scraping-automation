@@ -1,5 +1,6 @@
 # 1. Ignore specific output/log folders anywhere in the project
 **/OPtxt/
+**/OPcsv/
 **/OP/
 **/Log/
 **/Error/
